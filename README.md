@@ -1,7 +1,7 @@
 # bootcamp-customer-churn-prediction
 A case study to predict customer churn and suggest actionable insights to improve long-term user retention.
 
-Jupyter Notebook: [https://github.com/clement-hironimus/bootcamp-customer-churn-prediction/blob/main/Predicting%20User%20Retention%20for%20a%20Transportation%20Network%20Company.ipynb]([url](https://github.com/clement-hironimus/bootcamp-customer-churn-prediction/blob/main/Predicting%20User%20Retention%20for%20a%20Transportation%20Network%20Company.ipynb))
+[Jupyter Notebook](https://github.com/clement-hironimus/bootcamp-customer-churn-prediction/blob/main/Predicting%20User%20Retention%20for%20a%20Transportation%20Network%20Company.ipynb)
 
 # Instructions/Requirement
 
